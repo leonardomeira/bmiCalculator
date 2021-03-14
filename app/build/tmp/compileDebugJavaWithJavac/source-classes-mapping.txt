@@ -1,0 +1,4 @@
+com/example/bmicalculator/BuildConfig.java
+ com.example.bmicalculator.BuildConfig
+com/example/bmicalculator/databinding/ActivityMainBinding.java
+ com.example.bmicalculator.databinding.ActivityMainBinding
